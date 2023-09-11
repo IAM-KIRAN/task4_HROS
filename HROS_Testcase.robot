@@ -34,7 +34,8 @@ HROS-TopNavBar
     click on renil's profile
     get renil's reportees
     Click on timesheet icon from left menu
-    builtIn.Sleep    50
+    Close All Browsers
+
 
 
 

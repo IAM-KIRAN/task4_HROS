@@ -79,7 +79,7 @@ HR_OS_TIMESHEET_DELETE_WEEKLY_FILL
     Click on the Weekly timesheets
     #click arrow
     deleteweek
-
+    Close All Browsers
 
 
 

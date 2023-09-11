@@ -95,18 +95,7 @@ Click on timesheet icon from left menu
     builtIn.Sleep    5
     SeleniumLibrary.Switch Window          Timesheet
     builtIn.Sleep    7
-    SeleniumLibrary.Click Element      css=.ant-select-selector
 
-    SeleniumLibrary.Scroll Element Into View      css=.ant-select-item[title="9:00 am"]
-    SeleniumLibrary.Click Element       css=.ant-select-item[title="9:00 am"]
-    builtIn.Sleep    7
-    SeleniumLibrary.Click Element    //span[@class="ant-select-selection-search"]/input[@id="basic_tasks_0_endTime"]
-    SeleniumLibrary.Input Text    //span[@class="ant-select-selection-search"]/input[@id="basic_tasks_0_endTime"]    6:00 pm
-
-    SeleniumLibrary.Input Text    //input[@id="basic_tasks_0_projectId"]    rampup software
-    SeleniumLibrary.Input Text    //input[@placeholder="Enter the task name"]    Robot Framework
-    SeleniumLibrary.Input Text    //textarea[@placeholder="Enter the description"]    good
-    SeleniumLibrary.Click Element    //button[@form="myForm"]
 
 
     
