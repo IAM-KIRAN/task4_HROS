@@ -2,7 +2,7 @@
 ${HrosWebsiteUrl}           https://terralogic.paxanimi.ai/
 ${browser}                  Chrome
 ${email}                    kirankumar.br@terralogic.com
-${password}                 Psss*Kkr@#
+${password}                 
 ${HrosTimesheetWebsiteUrl}          https://terralogic.paxanimi.ai/time-sheet/my
 
 ${backup-code}              5350 0604
