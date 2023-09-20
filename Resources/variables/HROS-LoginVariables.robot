@@ -1,11 +1,11 @@
 *** Variables ***
 ${HrosWebsiteUrl}           https://terralogic.paxanimi.ai/
 ${browser}                  Chrome
-${email}                    kirankumar.br@terralogic.com
-${password}
+${email}                    xxxx@xx.com
+${password}                  xxxxxxx
 ${HrosTimesheetWebsiteUrl}          https://terralogic.paxanimi.ai/time-sheet/my
 
-${backup-code}              2493 6260
+${backup-code}              XXXX XXXX
 
 
 
